@@ -361,6 +361,31 @@ const initialUsers = [
     name: "Бота",
     number: "",
   },
+
+  {
+    id: "47",
+    username: "aiganym",
+    password: "password123",
+    role: "teacher",
+    name: "Айғаным",
+    number: "87770158105",
+  },
+  {
+    id: "48",
+    username: "asel",
+    password: "password123",
+    role: "teacher",
+    name: "Асел",
+    number: "",
+  },
+  {
+    id: "49",
+    username: "zhanira",
+    password: "password123",
+    role: "teacher",
+    name: "Жанира",
+    number: "",
+  },
 ];
 // и
 
